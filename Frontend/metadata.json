@@ -1,0 +1,5 @@
+{
+  "name": "Denodo AI Decision Engine",
+  "description": "A decision-making tool that uses the Denodo AI SDK to autonomously investigate data and provide recommendations.",
+  "requestFramePermissions": []
+}
